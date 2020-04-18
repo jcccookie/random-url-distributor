@@ -6,11 +6,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier --write '**/*.{js,css,json,md}'"
+    "format": "prettier --write '**/*.{js,css,json,md}'",
+    "lint": "eslint"
   },
   "author": "Kristian Freeman <kristian@kristianfreeman.com>",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^6.8.0",
     "prettier": "^1.18.2"
   }
 }
