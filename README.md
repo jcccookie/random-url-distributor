@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- [Link to Demo](https://random-url-generator.doublekn.workers.dev/)
+- [Link to Demo](https://random-url-distributor.doublekn.workers.dev/)
 
 ## What is it?
 
