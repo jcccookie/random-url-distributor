@@ -1,4 +1,4 @@
-name = "qr-code-generator"
+name = "random-url-distributor"
 type = "webpack"
 account_id = "169eede5248830566d3fded139965270"
 workers_dev = true
