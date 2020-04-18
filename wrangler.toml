@@ -1,8 +1,0 @@
-name = "random-url-distributor"
-type = "webpack"
-account_id = "169eede5248830566d3fded139965270"
-workers_dev = true
-
-[env.production]
-zone_id = "0491d1057b2fd5150cf450d66b64ae70"
-route = "kyeongnamkim.com/*"
